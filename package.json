@@ -1,0 +1,16 @@
+{
+  "main": "dist/scriptJS.js",
+  "types": "dist/scriptJS.d.ts",
+  "scripts": {
+    "start": "ts-node scriptJS.ts",
+    "build": "tsc"
+  },
+  "name": "projeto-c3",
+  "version": "1.0.0",
+  "author": "fabio.helmer",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "typescript": "^4.5.2"
+  }
+}
